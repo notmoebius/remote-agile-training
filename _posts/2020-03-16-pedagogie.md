@@ -1,6 +1,6 @@
 ---
 title: "Pédagogie"
-bg: '#A0D9D9'  #defined in _config.yml, can use html color like '#0fbfcf'
+bg: '#5ABFAD'  #defined in _config.yml, can use html color like '#0fbfcf'
 color: white   #text color
 fa-icon: graduation-cap
 ---
@@ -11,3 +11,4 @@ fa-icon: graduation-cap
 * Pour les travaux collectifs, prévoir un outil à coté (Framapad ou google docs).
 * Mettre plus le focus des formations sur le “savoir faire” plutôt que le “savoir être” de groupe, plus difficile à reproduire en ligne.
 * Trouver des simulateurs (exemple : [KanbanSim](http://www.kanbansim.org/) pour kanban)
+* Le peer review peut être très intéressant : proposer un devoir, puis demander à chacun de relire au moins trois autres devoirs et de leur donner les points forts et les axes d'amélioration.
