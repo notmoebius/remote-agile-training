@@ -14,3 +14,5 @@ fa-icon: gamepad
 * Rétrospective avec brainstorm de Klaxoon
 * [Perdu sur la lune](http://cpe.ac-dijon.fr/IMG/doc/nasa.doc) (un peu galère car chacun doit avoir une feuille individuelle)
 * La mission de sauvetage
+
+Et beaucoup d'autres activités à explorer sur [la page d'Isabelle Blasquez](https://github.com/iblasquez/enseignement-developpement-logiciel-agile). 
